@@ -17,6 +17,7 @@ Contribute to the Sharecare community by reviewing their service.
 ## Technologies
 Sharecare was created with:
 * Ruby on Rails
+* JavaScript
 * HTML/SCSS
 * Heroku
 * [Mapbox API](https://www.mapbox.com/)
