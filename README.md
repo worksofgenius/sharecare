@@ -1,4 +1,5 @@
 # Sharecare
+<img src="https://github.com/worksofgenius/sharecare/blob/master/sharecare-screenshot.png" height="50%" width="50%">
 
 ## Table of contents
 * [General info](#general-info)
